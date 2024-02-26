@@ -2,3 +2,4 @@ venv/
 .vscode/
 archive/
 *.csv
+__pycache__/
